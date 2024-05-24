@@ -1,0 +1,17 @@
+.second{
+    width: 100%;
+     display: flex;
+     padding: 20px 20px;
+     align-items: center;
+     justify-content: space-evenly;
+}
+
+.two{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+ 
